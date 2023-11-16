@@ -15,7 +15,20 @@ If our people could use these tools to solve common problems, they’d help us b
 
 This is why you're here! Our Digital Accelerator programme is an internal chance that takes groups of our employees out of their day jobs and puts them through  trainings that teaches them skills in technology such as automation, machine learning, design thinking, and digital storytelling. PowerBI is an important part of it as visualising data helps to handle and understand clients.
 
-## Task 1: Call Centre Trends [**Live Dashboard**](https://www.novypro.com/project/call-centre-trends-analysis-power-bi-1)
+## Task 1: Introduction
+I hope to learn and achieve the following during my internship:
+
+- Advanced PowerBI skills, including data modeling and visualization.
+- Data integration and transformation within PowerBI.
+- Client-centric problem solving and effective communication.
+- Strong teamwork and collaboration skills.
+- A deeper understanding of the Swiss business landscape.
+- Professional growth in a dynamic environment.
+- Valuable networking and mentorship opportunities with PwC professionals.
+
+I am committed to contributing my best efforts and eager to learn and grow throughout this experience.
+
+## Task 2: Call Centre Trends [**Live Dashboard**](https://www.novypro.com/project/call-centre-trends-analysis-power-bi-1)
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 
 **Possible KPIs include (to get you started, but not limited to):**
@@ -27,7 +40,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 
 ![Call Centre Trends](https://raw.githubusercontent.com/Apaulgithub/PwC_Switzerland_Power_BI_Virtual_Case_Experience/main/Task%202%20-%20Call%20Centre%20Trends/Task%202%20(Call%20Centre%20Trends).png)
 
-## Task 2: Customer Retention [**Live Dashboard**](https://www.novypro.com/project/customer-retention-analysis-28)
+## Task 3: Customer Retention [**Live Dashboard**](https://www.novypro.com/project/customer-retention-analysis-28)
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
@@ -40,7 +53,7 @@ The Retentions Manager has provided some information, have a look through the re
 
 ![Customer Retention](https://raw.githubusercontent.com/Apaulgithub/PwC_Switzerland_Power_BI_Virtual_Case_Experience/main/Task%203%20-%20Customer%20Retention/Customer%20Retention%20Analysis.png)
 
-## Task 3: Diversity & Inclusion [**Live Dashboard**](https://www.novypro.com/project/diversity--inclusion-analysis-8)
+## Task 4: Diversity & Inclusion [**Live Dashboard**](https://www.novypro.com/project/diversity--inclusion-analysis-8)
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
